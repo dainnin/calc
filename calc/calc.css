@@ -1,0 +1,5 @@
+
+h1,h2{
+    border: solid black 1px;
+   height: calc(20px + 2vw);
+}
